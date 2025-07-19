@@ -1,6 +1,7 @@
 # Food Category Recognition using Deep Learning (20-Class Subset)
 
-This project is a deep learning-based food classification system built on a curated 20-class subset of the [Food-101 dataset](https://data.vision.ee.ethz.ch/cvl/food-101/). It leverages **transfer learning** with a **ResNet18** model pretrained on **ImageNet**, and achieves a **test accuracy of 86.2%**. The goal is to build a fast, accurate, and robust model suitable for deployment and inclusion in machine learning portfolios.
+This project is a deep learning-based food classification system built on a curated 20-class subset of the [Food-101 dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
+). It leverages **transfer learning** with a **ResNet18** model pretrained on **ImageNet**, and achieves a **test accuracy of 86.2%**. The goal is to build a fast, accurate, and robust model suitable for deployment and inclusion in machine learning portfolios.
 
 ---
 
