@@ -17,20 +17,7 @@ This project is a deep learning-based food classification system built on a cura
 
 ## Dataset
 
-We used a **filtered 20-class subset** from Food-101, with structured directories:
-
-```
-food-20/
-│
-├── train/
-│   ├── pizza/
-│   ├── sushi/
-│   └── ...
-├── test/
-│   ├── pizza/
-│   ├── sushi/
-│   └── ...
-```
+We used a **filtered 20-class subset** from Food-101.
 
 Selected classes include: `pizza`, `sushi`, `waffles`, `fried_rice`, `ice_cream`, `steak`, `spaghetti_bolognese`, `guacamole`, `ramen`, `grilled_cheese_sandwich`, `churros`, `macaroni_and_cheese`, `hot_dog`, `falafel`, `chicken_wings`, `french_fries`, `donuts`, `pancakes`, `tacos`, `caesar_salad`.
 
